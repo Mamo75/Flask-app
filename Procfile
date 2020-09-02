@@ -1,0 +1,1 @@
+wbe: uwsgi uwsgi.ini
